@@ -1,1 +1,1 @@
-# CNN-tensorflow-Sequential
+CNN using tensorflow Sequential API
